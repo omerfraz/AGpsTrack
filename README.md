@@ -1,2 +1,2 @@
 # AGpsTrack
-AGpsTrack is a free and open source modern GPS tracking system build with .NET Framework. 
+AGpsTrack is a free and open source modern GPS tracking system built with .NET Framework. 
